@@ -66,6 +66,10 @@ Classifier Head Update
            ▼
 Final Prediction
 ```
+## Project Architecture
+
+![Project Architecture](<img width="1693" height="929" alt="ChatGPT Image May 31, 2026, 10_48_06 PM" src="https://github.com/user-attachments/assets/26d52ade-dddd-469c-97ab-028c2f370e5a" />
+)
 
 ---
 
@@ -222,7 +226,7 @@ pip install -r requirements.txt
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/PLHead-TTA.git
+git clone https://github.com/RAKSHITART/Test_Time_Adaption.git
 
 cd PLHead-TTA
 ```
