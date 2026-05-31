@@ -117,7 +117,7 @@ CIFAR-10-C is a benchmark dataset designed to evaluate model robustness against 
 ```text
 Test_Time_Adaption/
 │
-├── notebooks/
+├── CODES/
 │   ├── phase1_baseline_setup.ipynb
 │   ├── phase2_reproduction_experiments.ipynb
 │   ├── phase3_model_improvement.ipynb
